@@ -1,4 +1,4 @@
-# 🚀 Sobre mim
+# 🔍 Sobre mim
 
 - 📱 **Desenvolvedor Mobile** focado em criar experiências de alto impacto com Flutter e React Native.
 - ☁️ Atuando com soluções em **Cloud Computing** e arquiteturas modernas.
