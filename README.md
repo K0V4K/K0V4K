@@ -23,11 +23,3 @@
 ![Cypress](https://img.shields.io/badge/-cypress-%23E9E9E9.svg?style=for-the-badge&logo=cypress&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## 📊 Habilidades e Foco
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0V4K&theme=prussian&layout=compact&langs_count=8" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K0V4K&theme=prussian&show_icons=true&count_private=true&hide=contribs,prs" />
-</p>
