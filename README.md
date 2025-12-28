@@ -1,15 +1,9 @@
-# Olá, eu sou o Valter! 👋 
+# 🚀 Sobre mim
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Recife-Brasil-blue?style=flat-square&logo=googlemaps&logoColor=white" />
-</p>
-
-Sou um entusiasta da tecnologia apaixonado por construir projetos criativos e explorar novas linguagens e frameworks. Atualmente focado em ecossistemas Mobile e soluções inteligentes.
-
-## 🌐 Redes Sociais
-<a href="https://www.linkedin.com/in/valter-pereira-5542171a2/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+- 📱 **Desenvolvedor Mobile** focado em criar experiências de alto impacto com Flutter e React Native.
+- ☁️ Entusiasta de **Cloud Computing**, explorando soluções escaláveis e arquiteturas modernas.
+- 🧪 Comprometido com a qualidade de software através de **Testes de Software** e automação.
+- 💡 Apaixonado por transformar ideias em código e explorar novas linguagens e frameworks.
 
 ---
 
@@ -26,7 +20,7 @@ Sou um entusiasta da tecnologia apaixonado por construir projetos criativos e ex
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ### 🧪 Testes & Automação
-![Cypress](https://img.shields.io/badge/-cypress-%23E9E9E9.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![Cypress](https://img.shields.io/badge/-cypress-%23E9E9E9.svg?style=for-the-badge&logo=cypress&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🎨 Design
@@ -44,10 +38,4 @@ Sou um entusiasta da tecnologia apaixonado por construir projetos criativos e ex
 
 <p align="center">
   <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=K0V4K&theme=prussian&hide_border=false" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=K0V4K&icon=0&color=0" alt="Views" />
 </p>
