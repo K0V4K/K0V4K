@@ -7,10 +7,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Desenvolvedor+Mobile;Cloud+Computing;Qualidade+de+Software;Entusiasta+em+Arduino" alt="Typing SVG" />
-</p>
-
 <table>
   <tr>
     <td align="left" valign="top" width="60%">
@@ -24,7 +20,6 @@
       <p><strong>⚙️ Backend & Cloud</strong></p>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
       <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
       <br><br>
       <p><strong>🧪 Testes & Automação</strong></p>
       <img src="https://img.shields.io/badge/-cypress-%23E9E9E9.svg?style=for-the-badge&logo=cypress&logoColor=black" />
