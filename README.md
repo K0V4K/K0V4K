@@ -5,11 +5,12 @@
 </a>
 
 <p align="left">
-   🌐 <a href="#-about-me">Português</a> | <a href="#-about-me-english">English</a>
+   🌐 <a href="#-sobre-mim">Português</a> | <a href="#-about-me">English</a>
 </p>
 
+<a name="-sobre-mim"></a>
 ### 🔎 Sobre mim
-Sou um **Engenheiro de Software** apaixonado por construir aplicações móveis seguras e de alto desempenho. Minha abordagem integra o desenvolvimento de interfaces fluidas com uma mentalidade rigorosa de qualidade (QA) e segurança desde a concepção do projeto.
+Sou um **Engenheiro de Software** focado em construir aplicações móveis seguras e de alto desempenho. Minha abordagem integra o desenvolvimento de interfaces fluidas com uma mentalidade rigorosa de qualidade (QA) e segurança desde a concepção do projeto.
 
 🚀 **Destaques de Atuação:**
 
@@ -20,7 +21,7 @@ Sou um **Engenheiro de Software** apaixonado por construir aplicações móveis 
 
 ---
 
-<a name="-about-me-english"></a>
+<a name="-about-me"></a>
 ### 🇺🇸 About me
 I'm a **Software Engineer** focused on building secure and high-performance mobile applications. I combine fluid UI development with a rigorous Quality Assurance (QA) and security mindset.
 
@@ -28,23 +29,21 @@ I'm a **Software Engineer** focused on building secure and high-performance mobi
 
 ---
 
+### 💻 Tech Stack
+
 <table>
   <tr>
     <td align="left" valign="top" width="60%">
-      <h3>💻 Tech Stack</h3>
-      <br>
       <p><strong>📱 Mobile & Frontend</strong></p>
       <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
       <br><br>
-      
       <p><strong>⚙️ Backend & Cloud</strong></p>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
       <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
       <img src="https://img.shields.io/badge/Karate_DSL-000000?style=for-the-badge&logo=target&logoColor=white" />
       <br><br>
-      
       <p><strong>🧪 Testes & Automação (QA)</strong></p>
       <img src="https://img.shields.io/badge/-cypress-%23E9E9E9.svg?style=for-the-badge&logo=cypress&logoColor=black" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -63,9 +62,12 @@ I'm a **Software Engineer** focused on building secure and high-performance mobi
 <div align="center">
   <p><strong>Connect with me! / Conecte-se comigo!</strong></p> 
   <a href="https://linkedin.com/in/valterpereirafilho" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
+  <a href="https://github.com/K0V4K" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
   <a href="mailto:valteer.pereira@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
