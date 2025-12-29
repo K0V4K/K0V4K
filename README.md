@@ -1,33 +1,35 @@
-#⚡ Bem-vindo(a) ao meu portfólio! | Welcome to my portfolio!
+# ⚡ Bem-vindo(a) ao meu portfólio! | Welcome to my portfolio!
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4285F4&width=435&lines=>+Executing+security+protocols...;>+Building+robust+mobile+apps...;>+Scanning+for+vulnerabilities...;>+Initializing+QA+automation..." alt="Typing SVG" />
 </a>
 
 <p align="left">
-    🌐 <a href="#-sobre-mim">Português</a> | <a href="#-about-me">English</a>
+  🌐 <a href="#-sobre-mim">Português</a> | <a href="#-about-me">English</a>
 </p>
 
+---
+
 <a name="-sobre-mim"></a>
-### 🔎 Sobre mim
-Sou *focado em Engenharia de Software*, com ênfase na construção de aplicações móveis seguras e de alto desempenho. Minha abordagem integra o desenvolvimento de interfaces fluidas com uma mentalidade rigorosa de qualidade (QA) e segurança desde a concepção do projeto.
+## 🔎 Sobre mim
+Sou focado em **Engenharia de Software**, com ênfase na construção de aplicações móveis seguras e de alto desempenho. Minha abordagem integra o desenvolvimento de interfaces fluidas com uma mentalidade rigorosa de qualidade (QA) e segurança desde a concepção do projeto.
 
-🏗️ *Destaques de Atuação:*
+### 🎯 Destaques de Atuação:
 
-* 📱 *Desenvolvimento Mobile Híbrido:* Criação de experiências de alto impacto com *Flutter* e *React Native*.
-* 🛡️ *QA & Automação:* Garantia da excelência através de testes com *Cypress, **Karate DSL* e *BDD*.
-* ☁️ *Cloud & Arquitetura:* Soluções escaláveis utilizando *Google Cloud (GCP)* e Python.
-* 💡 *Comunidade:* Membro ativo do GDG Recife, focado em compartilhar conhecimento.
+* 📱 **Desenvolvimento Mobile Híbrido:** Criação de experiências de alto impacto com **Flutter** e **React Native**.
+* ✅ **QA & Automação:** Garantia da excelência através de testes com **Cypress, Karate DSL** e **BDD**.
+* ☁️ **Cloud & Arquitetura:** Soluções escaláveis utilizando **Google Cloud (GCP)** e **Python**.
+* 🤝 **Comunidade:** Membro ativo do GDG Recife, focado em compartilhar conhecimento.
 
 ---
 
 <a name="-about-me"></a>
-### 🇺🇸 About me
-I'm *focused on Software Engineering*, specialized in building secure and high-performance mobile applications. I combine fluid UI development with a rigorous Quality Assurance (QA) and security mindset.
+## 🇺🇸 About me
+I'm focused on **Software Engineering**, specialized in building secure and high-performance mobile applications. I combine fluid UI development with a rigorous Quality Assurance (QA) and security mindset.
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 <table>
   <tr>
