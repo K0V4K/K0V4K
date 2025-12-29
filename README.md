@@ -1,4 +1,4 @@
-# 🔍 Sobre mim
+# 🔍 About me
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4285F4&width=435&lines=>+Executing+security+protocols...;>+Analyzing+cloud+infrastructure...;>+Scanning+for+vulnerabilities...;>+Initializing+QA+automation..." alt="Typing SVG" />
