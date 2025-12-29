@@ -1,13 +1,14 @@
+
 # 🔍 Sobre mim
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de Computador" width="300">
-</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width="350">
 
 - 📱 **Desenvolvedor Mobile** focado em criar experiências de alto impacto com Flutter e React Native.
 - ☁️ Atuando com soluções em **Cloud Computing** e arquiteturas modernas.
 - 🧪 Focado na qualidade de software através de **Testes de Software** (Cypress e Postman).
 - 💡 Apaixonado por transformar ideias em código e explorar novas linguagens.
+
+<br clear="right">
 
 ---
 
@@ -26,3 +27,17 @@
 ### 🧪 Testes & Automação
 ![Cypress](https://img.shields.io/badge/-cypress-%23E9E9E9.svg?style=for-the-badge&logo=cypress&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+# 🔍 Sobre mim
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width="350">
+
+- 📱 **Desenvolvedor Mobile** focado em criar experiências de alto impacto com Flutter e React Native.
+- ☁️ Atuando com soluções em **Cloud Computing** e arquiteturas modernas.
+- 🧪 Focado na qualidade de software através de **Testes de Software** (Cypress e Postman).
+- 💡 Apaixonado por transformar ideias em código e explorar novas linguagens.
+
+<br clear="right">
+
+---
