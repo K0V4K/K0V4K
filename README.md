@@ -19,8 +19,6 @@ Sou focado em **Engenharia de Software**, com ênfase na construção de aplica�
 * 📱 **Desenvolvimento Mobile Híbrido:** Criação de experiências de alto impacto com **Flutter** e **React Native**.
 * ✅ **QA & Automação:** Garantia da excelência através de testes com **Cypress, Karate DSL** e **BDD**.
 * ☁️ **Cloud & Arquitetura:** Soluções escaláveis utilizando **Google Cloud (GCP)** e **Python**.
-* 🤝 **Comunidade:** Membro ativo do GDG Recife, focado em compartilhar conhecimento.
-
 ---
 
 <a name="-about-me"></a>
