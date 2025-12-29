@@ -1,9 +1,8 @@
 # 🔍 Sobre mim
 
-- 📱 Focado em criar experiências de alto impacto com **Flutter** e **React Native**.
-- ☁️ Atuando com soluções em **Google Cloud** e arquiteturas modernas.
-- 🧪 Garantindo a excelência através de testes com **Cypress**, **Karate DSL** e práticas de **BDD**.
-- 💡 Apaixonado por transformar ideias em código e explorar novas linguagens.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&width=600&lines=Focado+em+Mobile+com+Flutter+e+React+Native;Atuando+com+Google+Cloud+e+Arquiteturas;Garantindo+excelência+com+Cypress+e+Karate+DSL;Transformando+ideias+em+código+seguro" alt="Typing SVG" />
+</a>
 
 ---
 
