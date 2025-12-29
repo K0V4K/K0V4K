@@ -7,6 +7,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Desenvolvedor+Mobile;Cloud+Computing;Qualidade+de+Software;Entusiasta+em+Arduino" alt="Typing SVG" />
+</p>
+
 <table>
   <tr>
     <td align="left" valign="top" width="60%">
