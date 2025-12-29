@@ -1,14 +1,18 @@
 # 🔍 Sobre mim
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width="200">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width="300">
 
-<br>
-<br>
+### 📱 Desenvolvedor Mobile
+Focado em criar experiências de alto impacto com **Flutter e React Native**.
 
-- 📱 **Desenvolvedor Mobile** focado em criar experiências de alto impacto com Flutter e React Native.
-- ☁️ Atuando com soluções em **Cloud Computing** e arquiteturas modernas.
-- 🧪 Focado na qualidade de software através de **Testes de Software** (Cypress e Postman).
-- 💡 Apaixonado por transformar ideias em código e explorar novas linguagens.
+### ☁️ Cloud Computing
+Atuando com soluções em nuvem e **arquiteturas modernas**.
+
+### 🧪 Qualidade de Software
+Focado em garantir a excelência através de testes com **Cypress e Postman**.
+
+### 💡 Inovação
+Apaixonado por transformar ideias em código e explorar novas linguagens.
 
 <br clear="right">
 
