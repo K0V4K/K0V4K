@@ -14,7 +14,7 @@
 ## 🔎 Sobre mim
 Sou focado em **Engenharia de Software**, com ênfase na construção de aplicações móveis seguras e de alto desempenho. Minha abordagem integra o desenvolvimento de interfaces fluidas com uma mentalidade rigorosa de qualidade (QA) e segurança desde a concepção do projeto.
 
-### 🎯 Destaques de Atuação:
+### 🏗️ Destaques de Atuação:
 
 * 📱 **Desenvolvimento Mobile Híbrido:** Criação de experiências de alto impacto com **Flutter** e **React Native**.
 * ✅ **QA & Automação:** Garantia da excelência através de testes com **Cypress, Karate DSL** e **BDD**.
