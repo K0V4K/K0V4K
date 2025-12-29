@@ -36,8 +36,8 @@ I'm **focused on Software Engineering**, specialized in building secure and high
     <td align="left" valign="top" width="60%">
       <p><strong>📱 Mobile & Frontend</strong></p>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" />&nbsp;
-      <img src="https://user-images.githubusercontent.com/20695123/120224097-40097100-c21d-11eb-9f37-183d21b764d1.gif" alt="react-animated" width="40" height="40" />&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="40" height="40" />&nbsp;
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="40" height="40" />
       <br><br>
       <p><strong>⚙️ Backend & Cloud</strong></p>
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG56ZndueHh6ZndueHh6ZndueHh6ZndueHh6ZndueHh6ZndueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KAq5wXP6ZRYvC/giphy.gif" alt="python-animated" width="40" height="40" />&nbsp;
@@ -49,13 +49,9 @@ I'm **focused on Software Engineering**, specialized in building secure and high
       <img src="https://www.vectorlogo.zone/logos/cucumber/cucumber-icon.svg" alt="bdd" width="40" height="40" />
     </td>
     <td align="right" valign="center" width="40%">
-      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" alt="Computer Illustration" />
+      <a href="https://steamcommunity.com/id/KOVAK11/" target="_blank">
+        <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" alt="Steam Profile" title="Visite meu perfil na Steam!" />
+      </a>
     </td>
   </tr>
 </table>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4285F4&height=100&section=footer" />
-</p>
