@@ -40,7 +40,7 @@ I'm **focused on Software Engineering**, specialized in building secure and high
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="40" height="40" />
       <br><br>
       <p><strong>⚙️ Backend & Cloud</strong></p>
-      <img src="https://raw.githubusercontent.com/payload-f0/payload-f0/master/python.gif" alt="python-animated" width="40" height="40" />&nbsp;
+      <img src="https://raw.githubusercontent.com/pypa/python-logo/master/python-logo-generic.svg" alt="python" width="40" height="40" />&nbsp;
       <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
       <br><br>
       <p><strong>🧪 Testes & Automação (QA)</strong></p>
