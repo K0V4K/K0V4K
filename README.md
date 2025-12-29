@@ -1,9 +1,9 @@
 # 🔍 Sobre mim
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width="300">
+
 ### 📱 Desenvolvedor Mobile
 Focado em criar experiências de alto impacto com **Flutter e React Native**.
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width="300">
 
 ### ☁️ Cloud Computing
 Atuando com soluções em nuvem e **arquiteturas modernas**.
@@ -13,10 +13,6 @@ Focado em garantir a excelência através de testes com **Cypress e Postman**.
 
 ### 💡 Inovação
 Apaixonado por transformar ideias em código e explorar novas linguagens.
-
-<br>
-
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KOVAK11/)
 
 <br clear="right">
 
