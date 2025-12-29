@@ -1,10 +1,10 @@
 # 🔍 Sobre mim
 
 ### 📱 Desenvolvedor Mobile
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width="300">
-Focado em criar experiências de alto impacto com Flutter e React Native.
+Focado em criar experiências de alto impacto com **Flutter e React Native**.
 
 ### ☁️ Cloud Computing
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width="300">
 Atuando com soluções em nuvem e **arquiteturas modernas**.
 
 ### 🧪 Qualidade de Software
