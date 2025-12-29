@@ -1,8 +1,13 @@
 # 🔍 Sobre mim
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&width=600&lines=Focado+em+Mobile+com+Flutter+e+React+Native;Atuando+com+Google+Cloud+e+Arquiteturas;Garantindo+excelência+com+Cypress+e+Karate+DSL;Transformando+ideias+em+código+seguro" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4285F4&width=435&lines=>+Executing+security+protocols...;>+Analyzing+cloud+infrastructure...;>+Scanning+for+vulnerabilities...;>+Initializing+QA+automation..." alt="Typing SVG" />
 </a>
+
+- 📱 Focado em criar experiências de alto impacto com **Flutter** e **React Native**.
+- ☁️ Atuando com soluções em **Google Cloud** e arquiteturas modernas.
+- 🧪 Garantindo a excelência através de testes com **Cypress**, **Karate DSL** e práticas de **BDD**.
+- 💡 Apaixonado por transformar ideias em código e explorar novas linguagens.
 
 ---
 
@@ -27,7 +32,7 @@
       <img src="https://img.shields.io/badge/BDD-40B5AD?style=for-the-badge&logo=cucumber&logoColor=white" />
     </td>
     <td align="right" valign="center" width="40%">
-      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="380px" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="380px" />
     </td>
   </tr>
 </table>
