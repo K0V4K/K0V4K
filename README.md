@@ -56,3 +56,27 @@ I'm focused on **Software Engineering**, specialized in building secure and high
     </td>
   </tr>
 </table>
+
+---
+
+### 📊 Estatísticas e Atividade | Stats & Activity
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K0V4K&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0V4K&layout=compact&theme=tokyonight&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=K0V4K&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://linkedin.com/in/valterpereirafilho" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:valterpereira1320@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
