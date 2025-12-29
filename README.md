@@ -32,7 +32,9 @@
       <img src="https://img.shields.io/badge/BDD-40B5AD?style=for-the-badge&logo=cucumber&logoColor=white" />
     </td>
     <td align="right" valign="center" width="40%">
-      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="380px" />
+      <a href="https://steamcommunity.com/id/KOVAK11/" target="_blank">
+        <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="380px" alt="Steam Profile" />
+      </a>
     </td>
   </tr>
 </table>
