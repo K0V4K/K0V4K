@@ -2,7 +2,7 @@
 
 - 📱 Focado em criar experiências de alto impacto com **Flutter** e **React Native**.
 - ☁️ Atuando com soluções em **Google Cloud** e arquiteturas modernas.
-- 🧪 Garantindo a excelência através de testes com **Cypress** e **Postman**.
+- 🧪 Garantindo a excelência através de testes com **Cypress**, **Karate DSL** e práticas de **BDD**.
 - 💡 Apaixonado por transformar ideias em código e explorar novas linguagens.
 
 ---
@@ -20,10 +20,12 @@
       <p><strong>⚙️ Backend & Cloud</strong></p>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
       <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Karate_DSL-000000?style=for-the-badge&logo=karate&logoColor=white" />
       <br><br>
       <p><strong>🧪 Testes & Automação</strong></p>
       <img src="https://img.shields.io/badge/-cypress-%23E9E9E9.svg?style=for-the-badge&logo=cypress&logoColor=black" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/BDD-40B5AD?style=for-the-badge&logo=cucumber&logoColor=white" />
     </td>
     <td align="right" valign="center" width="40%">
       <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="380px" />
