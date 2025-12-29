@@ -10,7 +10,7 @@
 
 <a name="-sobre-mim"></a>
 ### 🔎 Sobre mim
-Sou um **Engenheiro de Software** focado em construir aplicações móveis seguras e de alto desempenho. Minha abordagem integra o desenvolvimento de interfaces fluidas com uma mentalidade rigorosa de qualidade (QA) e segurança desde a concepção do projeto.
+Sou **focado em Engenharia de Software**, com ênfase na construção de aplicações móveis seguras e de alto desempenho. Minha abordagem integra o desenvolvimento de interfaces fluidas com uma mentalidade rigorosa de qualidade (QA) e segurança desde a concepção do projeto.
 
 🚀 **Destaques de Atuação:**
 
@@ -23,7 +23,7 @@ Sou um **Engenheiro de Software** focado em construir aplicações móveis segur
 
 <a name="-about-me"></a>
 ### 🇺🇸 About me
-I'm a **Software Engineer** focused on building secure and high-performance mobile applications. I combine fluid UI development with a rigorous Quality Assurance (QA) and security mindset.
+I'm **focused on Software Engineering**, specialized in building secure and high-performance mobile applications. I combine fluid UI development with a rigorous Quality Assurance (QA) and security mindset.
 
 * **Focus:** Hybrid Mobile Development (Flutter/React Native), QA Automation (Cypress/Postman), and Cloud Solutions (GCP).
 
@@ -33,14 +33,14 @@ I'm a **Software Engineer** focused on building secure and high-performance mobi
 
 <table>
   <tr>
-    <td align="left" valign="top" width="55%">
+    <td align="left" valign="top" width="60%">
       <p><strong>📱 Mobile & Frontend</strong></p>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" />&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />&nbsp;
+      <img src="https://user-images.githubusercontent.com/20695123/120224097-40097100-c21d-11eb-9f37-183d21b764d1.gif" alt="react-animated" width="40" height="40" />&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
       <br><br>
       <p><strong>⚙️ Backend & Cloud</strong></p>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />&nbsp;
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG56ZndueHh6ZndueHh6ZndueHh6ZndueHh6ZndueHh6ZndueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KAq5wXP6ZRYvC/giphy.gif" alt="python-animated" width="40" height="40" />&nbsp;
       <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
       <br><br>
       <p><strong>🧪 Testes & Automação (QA)</strong></p>
@@ -48,7 +48,7 @@ I'm a **Software Engineer** focused on building secure and high-performance mobi
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />&nbsp;
       <img src="https://www.vectorlogo.zone/logos/cucumber/cucumber-icon.svg" alt="bdd" width="40" height="40" />
     </td>
-    <td align="right" valign="center" width="45%">
+    <td align="right" valign="center" width="40%">
       <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" alt="Computer Illustration" />
     </td>
   </tr>
@@ -56,8 +56,6 @@ I'm a **Software Engineer** focused on building secure and high-performance mobi
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight" height="150" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4285F4&height=100&section=footer" />
 </p>
