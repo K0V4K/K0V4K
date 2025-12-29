@@ -5,7 +5,7 @@
 </a>
 
 <p align="left">
-   🌐 <a href="#-sobre-mim">Português</a> | <a href="#-about-me">English</a>
+    🌐 <a href="#-sobre-mim">Português</a> | <a href="#-about-me">English</a>
 </p>
 
 <a name="-sobre-mim"></a>
@@ -33,23 +33,31 @@ I'm a **Software Engineer** focused on building secure and high-performance mobi
 
 <table>
   <tr>
-    <td align="left" valign="top" width="60%">
+    <td align="left" valign="top" width="55%">
       <p><strong>📱 Mobile & Frontend</strong></p>
-      <img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="flutter" width="40" height="40" />
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="40" height="40" />
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" />&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
       <br><br>
       <p><strong>⚙️ Backend & Cloud</strong></p>
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />&nbsp;
       <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
       <br><br>
       <p><strong>🧪 Testes & Automação (QA)</strong></p>
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" alt="cypress" width="40" height="40" />
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" alt="cypress" width="40" height="40" />&nbsp;
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />&nbsp;
       <img src="https://www.vectorlogo.zone/logos/cucumber/cucumber-icon.svg" alt="bdd" width="40" height="40" />
     </td>
-    <td align="right" valign="center" width="40%">
-      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="380px" alt="Computer Illustration" />
+    <td align="right" valign="center" width="45%">
+      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" alt="Computer Illustration" />
     </td>
   </tr>
 </table>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight" height="150" />
+</p>
