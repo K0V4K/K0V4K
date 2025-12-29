@@ -7,9 +7,7 @@
 <p align="left">
   🌐 <a href="#-sobre-mim">Português</a> | <a href="#-about-me">English</a>
 </p>
-
 ---
-
 <a name="-sobre-mim"></a>
 ## 🔎 Sobre mim
 Sou focado em **Engenharia de Software**, com ênfase na construção de aplicações móveis seguras e de alto desempenho. Minha abordagem integra o desenvolvimento de interfaces fluidas com uma mentalidade rigorosa de qualidade (QA) e segurança desde a concepção do projeto.
@@ -20,13 +18,10 @@ Sou focado em **Engenharia de Software**, com ênfase na construção de aplica�
 * ✅ **QA & Automação:** Garantia da excelência através de testes com **Cypress, Karate DSL** e **BDD**.
 * ☁️ **Cloud & Arquitetura:** Soluções escaláveis utilizando **Google Cloud (GCP)** e **Python**.
 ---
-
 <a name="-about-me"></a>
 ## 🇺🇸 About me
 I'm focused on **Software Engineering**, specialized in building secure and high-performance mobile applications. I combine fluid UI development with a rigorous Quality Assurance (QA) and security mindset.
-
 ---
-
 ## 💻 Tech Stack
 
 <table>
