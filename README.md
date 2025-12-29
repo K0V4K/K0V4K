@@ -20,7 +20,7 @@
       <p><strong>⚙️ Backend & Cloud</strong></p>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
       <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/Karate_DSL-000000?style=for-the-badge&logo=docsdotrs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Karate_DSL-000000?style=for-the-badge&logo=target&logoColor=white" />
       <br><br>
       <p><strong>🧪 Testes & Automação</strong></p>
       <img src="https://img.shields.io/badge/-cypress-%23E9E9E9.svg?style=for-the-badge&logo=cypress&logoColor=black" />
