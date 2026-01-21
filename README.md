@@ -1,6 +1,6 @@
 # ⚡ Bem-vindo(a) ao meu portfólio! | Welcome to my portfolio!
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=K0V4K&color=blue" alt="Profile Views" />
 </p>
 
