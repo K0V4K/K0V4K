@@ -1,5 +1,9 @@
 # ⚡ Bem-vindo(a) ao meu portfólio! | Welcome to my portfolio!
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=K0V4K&color=blue" alt="Profile Views" />
+</p>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4285F4&width=435&lines=>+Executing+security+protocols...;>+Building+robust+mobile+apps...;>+Scanning+for+vulnerabilities...;>+Initializing+QA+automation..." alt="Typing SVG" />
 </a>
@@ -26,6 +30,12 @@ Sou focado em **Engenharia de Software**, com ênfase na construção de aplica�
 ## 🇺🇸 About me
 I'm focused on **Software Engineering**, specialized in building secure and high-performance mobile applications. I combine fluid UI development with a rigorous Quality Assurance (QA) and security mindset.
 
+### 🏗️ Career Highlights:
+
+* 📱 **Hybrid Mobile Dev:** Building high-impact experiences with **Flutter** and **React Native**.
+* ✅ **QA & Automation:** Ensuring excellence through testing with **Cypress, Karate DSL**, and **BDD**.
+* ☁️ **Cloud & Architecture:** Scalable solutions using **Google Cloud (GCP)** and **Python**.
+
 ---
 
 ## 💻 Tech Stack
@@ -41,9 +51,9 @@ I'm focused on **Software Engineering**, specialized in building secure and high
       <p><strong>⚙️ Backend & Cloud</strong></p>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
       <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/Karate_DSL-000000?style=for-the-badge&logo=target&logoColor=white" />
       <br><br>
       <p><strong>🧪 Testes & Automação</strong></p>
+      <img src="https://img.shields.io/badge/Karate_DSL-000000?style=for-the-badge&logo=target&logoColor=white" />
       <img src="https://img.shields.io/badge/-cypress-%23E9E9E9.svg?style=for-the-badge&logo=cypress&logoColor=black" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
       <img src="https://img.shields.io/badge/BDD-40B5AD?style=for-the-badge&logo=cucumber&logoColor=white" />
@@ -55,5 +65,3 @@ I'm focused on **Software Engineering**, specialized in building secure and high
     </td>
   </tr>
 </table>
-
-
