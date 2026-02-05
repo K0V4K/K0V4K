@@ -31,10 +31,11 @@ I work as a **Quality Engineering Associate**, combining my development backgrou
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
       <img src="https://img.shields.io/badge/Karate_DSL-000000?style=for-the-badge&logo=target&logoColor=white" />
       <br><br>
-      <p><strong>⚙️ Backend & Languages</strong></p>
+      <p><strong>💻 Languages & Frameworks</strong></p>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-      <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
       <br><br>
       <p><strong>📋 Methodologies & Tools</strong></p>
       <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
@@ -49,4 +50,3 @@ I work as a **Quality Engineering Associate**, combining my development backgrou
     </td>
   </tr>
 </table>
-
