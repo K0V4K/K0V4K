@@ -1,12 +1,10 @@
-# ⚡ Welcome to my portfolio!
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4285F4&width=435&lines=>+Initializing+test+environment...;>+Running+Cypress+scenarios...;>+Validating+API+endpoints...;>+Ensuring+software+quality..." alt="Typing SVG" />
+</a>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=K0V4K&color=blue" alt="Profile Views" />
 </p>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4285F4&width=435&lines=>+Initializing+test+environment...;>+Running+Cypress+scenarios...;>+Validating+API+endpoints...;>+Ensuring+software+quality..." alt="Typing SVG" />
-</a>
 
 ---
 
