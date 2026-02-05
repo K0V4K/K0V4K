@@ -12,6 +12,15 @@
   🌐 <a href="#-sobre-mim">Português</a> | <a href="#-about-me">English</a>
 </p>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:valterpereira1320@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</p>
+
 ---
 
 <a name="-sobre-mim"></a>
@@ -42,7 +51,7 @@ I work as a **Quality Engineering Associate**, combining my development backgrou
 
 <table>
   <tr>
-    <td align="left" valign="top" width="65%">
+    <td align="left" valign="top" width="60%">
       <p><strong>🧪 Testes & Automação (Main Focus)</strong></p>
       <img src="https://img.shields.io/badge/-cypress-%23E9E9E9.svg?style=for-the-badge&logo=cypress&logoColor=black" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -54,14 +63,21 @@ I work as a **Quality Engineering Associate**, combining my development backgrou
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
       <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
       <br><br>
-      <p><strong>📱 Dev & Mobile Knowledge</strong></p>
-      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+      <p><strong>📋 Methodologies & Tools</strong></p>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scrum-gear?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
     </td>
-    <td align="right" valign="center" width="35%">
+    <td align="right" valign="center" width="40%">
       <a href="https://steamcommunity.com/id/KOVAK11/" target="_blank">
-        <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="380px" alt="Steam Profile" title="Clique para ver minha Steam!" />
+        <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="100%" alt="Steam Profile" title="Clique para ver minha Steam!" />
       </a>
     </td>
   </tr>
 </table>
+
+## 📈 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K0V4K&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0V4K&layout=compact&theme=tokyonight"/>
+</div>
