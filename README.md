@@ -10,33 +10,33 @@
 
 ---
 
-## 🔎 About me
+## ❯ About me
 I work as a **Quality Engineering Associate**, combining my development background with advanced testing strategies. My focus is on building **robust automation**, API validation, and implementing a Quality Assurance (QA) and BDD culture from the very beginning of the development cycle.
 
-### 🏗️ Career Highlights:
+### ❯ Career Highlights
 
-* ✅ **QA & Automation:** Specialist in E2E and integration testing using **Cypress** and **Python**.
-* 🔌 **API Testing:** Deep validation of endpoints and contracts using **Postman** and automated scripts.
-* 📱 **Technical Background:** Previous experience with **Mobile (Flutter/React Native)**, providing a clear vision for white-box and mobile testing.
+* ✔ **QA & Automation:** Specialist in E2E and integration testing using **Cypress** and **Python**.
+* ✔ **API Testing:** Deep validation of endpoints and contracts using **Postman** and automated scripts.
+* ✔ **Technical Background:** Previous experience with **Mobile (Flutter/React Native)**, providing a clear vision for white-box and mobile testing.
 
 ---
 
-## 💻 Tech Stack
+## ❯ Tech Stack
 
 <table>
   <tr>
     <td align="left" valign="top" width="60%">
-      <p><strong>🧪 Testing & Automation (Main Focus)</strong></p>
+      <p><strong>Testing & Automation (Main Focus)</strong></p>
       <img src="https://img.shields.io/badge/-cypress-%23E9E9E9.svg?style=for-the-badge&logo=cypress&logoColor=black" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
       <img src="https://img.shields.io/badge/Karate_DSL-000000?style=for-the-badge&logo=target&logoColor=white" />
       <br><br>
-      <p><strong>💻 Languages & Frameworks</strong></p>
+      <p><strong>Languages & Frameworks</strong></p>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
       <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
       <br><br>
-      <p><strong>📋 Methodologies & Tools</strong></p>
+      <p><strong>Methodologies & Tools</strong></p>
       <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
       <img src="https://img.shields.io/badge/Scrum-gear?style=for-the-badge&logo=scrumalliance&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
