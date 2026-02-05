@@ -13,9 +13,9 @@ I work as a **Quality Engineering Associate**, combining my development backgrou
 
 ### ❯ Career Highlights
 
-* ✔ **QA & Automation:** Specialist in E2E and integration testing using **Cypress** and **Python**.
-* ✔ **API Testing:** Deep validation of endpoints and contracts using **Postman** and automated scripts.
-* ✔ **Technical Background:** Previous experience with **Mobile (Flutter/React Native)**, providing a clear vision for white-box and mobile testing.
+✔ **QA & Automation:** Specialist in E2E and integration testing using **Cypress** and **Python**.
+✔ **API Testing:** Deep validation of endpoints and contracts using **Postman** and automated scripts.
+✔ **Technical Background:** Previous experience with **Mobile (Flutter/React Native)**, providing a clear vision for white-box and mobile testing.
 
 ---
 
