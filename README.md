@@ -30,7 +30,6 @@ I work as a **Quality Engineering Associate**, combining my development backgrou
       <img src="https://img.shields.io/badge/-cypress-%23E9E9E9.svg?style=for-the-badge&logo=cypress&logoColor=black" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
       <img src="https://img.shields.io/badge/Karate_DSL-000000?style=for-the-badge&logo=target&logoColor=white" />
-      <img src="https://img.shields.io/badge/BDD-40B5AD?style=for-the-badge&logo=cucumber&logoColor=white" />
       <br><br>
       <p><strong>⚙️ Backend & Languages</strong></p>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -41,6 +40,7 @@ I work as a **Quality Engineering Associate**, combining my development backgrou
       <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
       <img src="https://img.shields.io/badge/Scrum-gear?style=for-the-badge&logo=scrumalliance&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/BDD-40B5AD?style=for-the-badge&logo=cucumber&logoColor=white" />
     </td>
     <td align="right" valign="center" width="40%">
       <a href="https://steamcommunity.com/id/KOVAK11/" target="_blank">
